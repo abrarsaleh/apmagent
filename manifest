@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: petclinic.PetClinicApplication.java
+Agent-Class: core.InstrumentationAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: core.InstrumentationAgent
